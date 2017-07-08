@@ -25,6 +25,7 @@ optional arguments:
 ```
 
 # Example:
+**`log` directory must exist before running epm.**
 ```
 python3 src/elige_por_mi.py -a data/lista_1.txt -b data/lista_2.txt
 ```
