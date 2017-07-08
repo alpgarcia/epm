@@ -1,7 +1,7 @@
 # epm
 Baby name chooser. Let the AI choose for you.
 
-Choosing the name of your children is one of the biggest unsolved problems I can imagine. Computer engineers spend the whole day writing algorithms to solve problems. This project intends to build a simple but fair algorithm to help people around the world find a solution in a reasonable time. [Contributions are welcome](#How-to-contribute)!!
+Choosing the name of your children is one of the biggest unsolved problems I can imagine. Computer engineers spend the whole day writing algorithms to solve problems. This project intends to build a simple but fair algorithm to help people around the world find a solution in a reasonable time. [Contributions are welcome](#how-to-contribute)!!
 
 ![Screenshot-1](img/epm-1.png)
 ![Screenshot-2](img/epm-2.png)
