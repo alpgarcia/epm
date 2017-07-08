@@ -1,5 +1,12 @@
 # epm
-Baby name chooser
+Baby name chooser. Let the AI choose for you.
+
+Choosing the name of your children is one of the biggest unsolved problems I can imagine. Computer engineers spend the whole day writing algorithms to solve problems. This project intends to build a simple but fair algorithm to help people around the world find a solution in a reasonable time. [Contributions are welcome](#How-to-contribute)!!
+
+![Screenshot-1](img/epm-1.png)
+![Screenshot-2](img/epm-2.png)
+![Screenshot-3](img/epm-3.png)
+![Screenshot-4](img/epm-4.png)
 
 # Usage
 ```
@@ -29,3 +36,7 @@ optional arguments:
 ```
 python3 src/elige_por_mi.py -a data/lista_1.txt -b data/lista_2.txt
 ```
+
+# How to contribute
+Please, if you want to modify the algorithm it would be nice if you could add an option to choose between the standard algorithm and your mod. This way `epm` results will be always reproducible to show them to your children (whose names were of course choosen by the epm AI)
+
